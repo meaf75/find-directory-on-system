@@ -1,9 +1,9 @@
 # find-file-on-system
 Easy way to find a directory recursiverly on all system drivers [windows]
 
-#Requirements
+# Requirements
 - Node js
 
-#Usage
+# Usage
 Run on terminal node buscar.js "directory_name"
 
